@@ -38,7 +38,7 @@ export default function AdvancedTextControls({
       <div className="flex gap-2">
         <button
           onClick={onAddLayer}
-          className="flex-1 bg-primary hover:bg-pink-600 text-white px-4 py-2 rounded-lg text-sm font-semibold"
+          className="flex-1 bg-pink-600 hover:bg-pink-700 text-white px-4 py-2 rounded-lg text-sm font-semibold shadow-md"
         >
           + Add Text
         </button>

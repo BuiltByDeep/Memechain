@@ -4,7 +4,7 @@
 
 A Web3-powered meme generator that allows users to create custom memes with advanced editing features and permanently store their metadata on the Polkadot blockchain (Paseo Asset Hub).
 
-[![Live Demo](https://img.shields.io/badge/demo-live-success)](your-demo-url-here)
+[![Live Demo](https://img.shields.io/badge/demo-live-success)](https://memechainpolkadot.netlify.app)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 ---
@@ -93,7 +93,7 @@ MEMEChain bridges Web2 simplicity with Web3 ownership by offering:
 
 ## 🎥 Demo Video
 
-[Add your demo video link here]
+🔗 **Live Demo**: [https://memechainpolkadot.netlify.app](https://memechainpolkadot.netlify.app)
 
 **Quick Demo Flow:**
 1. Upload an image
@@ -458,24 +458,21 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📞 Contact & Support
+## ⚠️ Known Issues
 
-- **GitHub Issues**: [Report bugs or request features](https://github.com/yourusername/memechain/issues)
-- **Twitter**: [@YourTwitter](https://twitter.com/yourhandle)
-- **Discord**: [Join our community](https://discord.gg/yourserver)
-- **Email**: your.email@example.com
+**Balance Display**: If you don't see your balance after connecting your wallet, click the 🔄 refresh button next to the balance in the header. The balance query sometimes glitches on first load.
 
 ---
 
 ## 🏆 Hackathon Submission
 
-This project was built for the [Polkadot Hackathon 2025](hackathon-link).
+This project was built for the Polkadot Hackathon 2025.
 
 **Category**: User-Centric Applications
 
-**Team**: [Your Team Name]
+**Team**: Anudeep
 
-**Demo**: [Live Demo Link](your-demo-url)
+**Live Demo**: [https://memechainpolkadot.netlify.app](https://memechainpolkadot.netlify.app)
 
 **Video**: [Demo Video Link](your-video-url)
 

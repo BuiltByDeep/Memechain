@@ -290,6 +290,9 @@ function App() {
                 >
                   Get Free Testnet Tokens →
                 </a>
+                <p className="text-xs text-gray-500 mt-4 pt-3 border-t border-gray-700">
+                  💡 Tip: If balance shows 0.0000 after connecting, click the 🔄 refresh button in the header.
+                </p>
               </div>
             )}
             
